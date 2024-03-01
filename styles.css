@@ -1,0 +1,51 @@
+/* * {
+    border: 1px dashed red;
+    min-height: 10px;
+} */
+
+body {
+    background-color: black;
+}
+
+.feed {
+    width: 520px;
+    height: 480px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.header{
+    height: 36px;
+}
+
+
+.header h1 {
+    width: 98%;
+    padding-left: 10px;
+    padding-top: 4px;
+    border-block-style: ridge;
+    height: 38px;
+    margin: auto;
+}
+
+.middle {
+    width: 520px;
+
+}
+
+.middle img {
+    width: 100%;
+    height: 300px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.options {
+    border-block-end: ridge;
+
+}
+
+.footer {
+    padding-left: 10px;
+}
